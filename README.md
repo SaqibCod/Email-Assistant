@@ -13,3 +13,4 @@ An AI-powered email assistant with:
 
 ## Setup Instructions
 
+Check individual README files inside each folder.
